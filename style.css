@@ -160,6 +160,7 @@
   .todo h3 {
     flex: 1;
     font-size: 0.9rem;
+    color: #eeecec;
   }
   
   .todo button {
